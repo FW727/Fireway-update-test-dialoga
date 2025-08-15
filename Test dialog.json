@@ -1,0 +1,9 @@
+{
+  "version": "1.2",
+  "titulo": "Update Available",
+  "subtitulo": "New Version Released",
+  "description": "• Improved performance\n• Fixed several bugs\n• Added new user-friendly features",
+  "link": "https://example.com/update.apk",
+  "botonclose": true,
+  "closefuncion": true
+}
