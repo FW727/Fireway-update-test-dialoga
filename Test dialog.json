@@ -1,9 +1,7 @@
 {
-  "version": "2.0.2",
-  "titulo": "Update Available",
-  "subtitulo": "New Version Released",
-  "description": "• Improved performance\n• Fixed several bugs\n• Added new user-friendly features",
-  "link": "https://example.com/update.apk",
-  "botonclose": true,
-  "closefuncion": true
+  "version": "14.9.1",
+  "title": "Update v1.1 soon...",
+  "subtitle": "	☄ Disegned By @Fireway727 🫣\n☄ Dialog modern 🙂‍\n☄ version v9 🤙",
+  "update_url": "https://t.me/FwPatcher",
+  "show_close_button": true
 }
